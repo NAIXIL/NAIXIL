@@ -1,7 +1,11 @@
-### Hi there 👋
+### 你好👋
 
 
-**NAIXIL/NAIXIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是**李显**的个人主页！
+
+没啥可写的，就记录一点名言警句。
+* 
+
 
 Here are some ideas to get you started:
 
